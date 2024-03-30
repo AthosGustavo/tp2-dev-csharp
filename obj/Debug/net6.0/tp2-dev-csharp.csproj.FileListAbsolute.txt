@@ -1,0 +1,52 @@
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos de c# pt 2/tp2-dev-csharp/bin/Debug/net6.0/appsettings.Development.json
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos de c# pt 2/tp2-dev-csharp/bin/Debug/net6.0/appsettings.json
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos de c# pt 2/tp2-dev-csharp/bin/Debug/net6.0/tp2-dev-csharp.staticwebassets.runtime.json
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos de c# pt 2/tp2-dev-csharp/bin/Debug/net6.0/tp2-dev-csharp
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos de c# pt 2/tp2-dev-csharp/bin/Debug/net6.0/tp2-dev-csharp.deps.json
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos de c# pt 2/tp2-dev-csharp/bin/Debug/net6.0/tp2-dev-csharp.runtimeconfig.json
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos de c# pt 2/tp2-dev-csharp/bin/Debug/net6.0/tp2-dev-csharp.dll
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos de c# pt 2/tp2-dev-csharp/bin/Debug/net6.0/ref/tp2-dev-csharp.dll
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos de c# pt 2/tp2-dev-csharp/bin/Debug/net6.0/tp2-dev-csharp.pdb
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos de c# pt 2/tp2-dev-csharp/obj/Debug/net6.0/tp2-dev-csharp.csproj.AssemblyReference.cache
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos de c# pt 2/tp2-dev-csharp/obj/Debug/net6.0/tp2-dev-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos de c# pt 2/tp2-dev-csharp/obj/Debug/net6.0/tp2-dev-csharp.AssemblyInfoInputs.cache
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos de c# pt 2/tp2-dev-csharp/obj/Debug/net6.0/tp2-dev-csharp.AssemblyInfo.cs
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos de c# pt 2/tp2-dev-csharp/obj/Debug/net6.0/tp2-dev-csharp.csproj.CoreCompileInputs.cache
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos de c# pt 2/tp2-dev-csharp/obj/Debug/net6.0/tp2-dev-csharp.MvcApplicationPartsAssemblyInfo.cache
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos de c# pt 2/tp2-dev-csharp/obj/Debug/net6.0/tp2-dev-csharp.RazorAssemblyInfo.cache
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos de c# pt 2/tp2-dev-csharp/obj/Debug/net6.0/tp2-dev-csharp.RazorAssemblyInfo.cs
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos de c# pt 2/tp2-dev-csharp/obj/Debug/net6.0/staticwebassets.build.json
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos de c# pt 2/tp2-dev-csharp/obj/Debug/net6.0/staticwebassets.development.json
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos de c# pt 2/tp2-dev-csharp/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos de c# pt 2/tp2-dev-csharp/obj/Debug/net6.0/scopedcss/bundle/tp2-dev-csharp.styles.css
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos de c# pt 2/tp2-dev-csharp/obj/Debug/net6.0/scopedcss/projectbundle/tp2-dev-csharp.bundle.scp.css
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos de c# pt 2/tp2-dev-csharp/obj/Debug/net6.0/tp2-dev-csharp.dll
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos de c# pt 2/tp2-dev-csharp/obj/Debug/net6.0/ref/tp2-dev-csharp.dll
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos de c# pt 2/tp2-dev-csharp/obj/Debug/net6.0/tp2-dev-csharp.pdb
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos de c# pt 2/tp2-dev-csharp/obj/Debug/net6.0/tp2-dev-csharp.genruntimeconfig.cache
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos-de-c#-pt-2/tp2-dev-csharp/bin/Debug/net6.0/appsettings.Development.json
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos-de-c#-pt-2/tp2-dev-csharp/bin/Debug/net6.0/appsettings.json
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos-de-c#-pt-2/tp2-dev-csharp/bin/Debug/net6.0/tp2-dev-csharp.staticwebassets.runtime.json
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos-de-c#-pt-2/tp2-dev-csharp/bin/Debug/net6.0/tp2-dev-csharp
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos-de-c#-pt-2/tp2-dev-csharp/bin/Debug/net6.0/tp2-dev-csharp.deps.json
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos-de-c#-pt-2/tp2-dev-csharp/bin/Debug/net6.0/tp2-dev-csharp.runtimeconfig.json
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos-de-c#-pt-2/tp2-dev-csharp/bin/Debug/net6.0/tp2-dev-csharp.dll
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos-de-c#-pt-2/tp2-dev-csharp/bin/Debug/net6.0/ref/tp2-dev-csharp.dll
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos-de-c#-pt-2/tp2-dev-csharp/bin/Debug/net6.0/tp2-dev-csharp.pdb
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos-de-c#-pt-2/tp2-dev-csharp/obj/Debug/net6.0/tp2-dev-csharp.csproj.AssemblyReference.cache
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos-de-c#-pt-2/tp2-dev-csharp/obj/Debug/net6.0/tp2-dev-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos-de-c#-pt-2/tp2-dev-csharp/obj/Debug/net6.0/tp2-dev-csharp.AssemblyInfoInputs.cache
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos-de-c#-pt-2/tp2-dev-csharp/obj/Debug/net6.0/tp2-dev-csharp.AssemblyInfo.cs
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos-de-c#-pt-2/tp2-dev-csharp/obj/Debug/net6.0/tp2-dev-csharp.csproj.CoreCompileInputs.cache
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos-de-c#-pt-2/tp2-dev-csharp/obj/Debug/net6.0/tp2-dev-csharp.MvcApplicationPartsAssemblyInfo.cache
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos-de-c#-pt-2/tp2-dev-csharp/obj/Debug/net6.0/tp2-dev-csharp.RazorAssemblyInfo.cache
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos-de-c#-pt-2/tp2-dev-csharp/obj/Debug/net6.0/tp2-dev-csharp.RazorAssemblyInfo.cs
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos-de-c#-pt-2/tp2-dev-csharp/obj/Debug/net6.0/staticwebassets.build.json
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos-de-c#-pt-2/tp2-dev-csharp/obj/Debug/net6.0/staticwebassets.development.json
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos-de-c#-pt-2/tp2-dev-csharp/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos-de-c#-pt-2/tp2-dev-csharp/obj/Debug/net6.0/scopedcss/bundle/tp2-dev-csharp.styles.css
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos-de-c#-pt-2/tp2-dev-csharp/obj/Debug/net6.0/scopedcss/projectbundle/tp2-dev-csharp.bundle.scp.css
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos-de-c#-pt-2/tp2-dev-csharp/obj/Debug/net6.0/tp2-dev-csharp.dll
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos-de-c#-pt-2/tp2-dev-csharp/obj/Debug/net6.0/ref/tp2-dev-csharp.dll
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos-de-c#-pt-2/tp2-dev-csharp/obj/Debug/net6.0/tp2-dev-csharp.pdb
+/home/athos/Documentos/pasta-de-estudos/infnet/fundamentos-de-c#-pt-2/tp2-dev-csharp/obj/Debug/net6.0/tp2-dev-csharp.genruntimeconfig.cache

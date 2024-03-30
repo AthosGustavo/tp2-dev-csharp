@@ -1,0 +1,26 @@
+@page
+@model PessoasModel
+@{
+    ViewData["Title"] = "Pessoas";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Pessoas</h1>
+    <p>Veja as informações das pessoas abaixo:</p>
+</div>
+
+@if (!ModelState.IsValid)
+{
+    <div class="alert alert-danger">
+        <p>Existem erros no formulário. Por favor, corrija-os e tente novamente.</p>
+    </div>
+}
+
+@foreach (var pessoa in Model.Pessoas)
+{
+    <div>
+        <h2>@pessoa.Nome</h2>
+        <p>Idade: @pessoa.Idade</p>
+        <p>CPF: @pessoa.CPF</p>
+    </div>
+}
